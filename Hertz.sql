@@ -46,7 +46,7 @@ INSERT INTO MUSIC_LABELS VALUES ('LABEL002', 'Columbia Records', 'Edward D. East
 INSERT INTO MUSIC_LABELS VALUES ('LABEL003', 'Big Hit Entertainment', 'Bang Si-hyuk', 2005);
 INSERT INTO MUSIC_LABELS VALUES ('LABEL004', 'Republic Records', 'Monte Lipman', 1995);
 INSERT INTO MUSIC_LABELS VALUES ('LABEL005', 'Atlantic Records', 'Ahmet Ertegun', 1947);
-INSERT INTO MUSIC_LABELS VALUES ('LABEL006', 'Parkwood Entertainment', 'Beyonc� Knowles-Carter', 2008);
+INSERT INTO MUSIC_LABELS VALUES ('LABEL006', 'Parkwood Entertainment', 'Beyonce Knowles-Carter', 2008);
 INSERT INTO MUSIC_LABELS VALUES ('LABEL007', 'Syco Music', 'Simon Cowell', 2002);
 INSERT INTO MUSIC_LABELS VALUES ('LABEL008', 'XL Recordings', 'Richard Russell', 1989);
 INSERT INTO MUSIC_LABELS VALUES ('LABEL009', 'Geffen Records', 'David Geffen', 1980);
